@@ -31,6 +31,6 @@ The notebook walks through:
 
 ---
 
-## Results Summary (EDIT AGAIN)
+## Results Summary
 
 - The regression model captured the general price trends effectively. (0.845 R² Score on best model)
